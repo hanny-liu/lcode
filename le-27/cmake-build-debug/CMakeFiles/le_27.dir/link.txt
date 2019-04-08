@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/le_27.dir/main.cpp.o  -o le_27 
